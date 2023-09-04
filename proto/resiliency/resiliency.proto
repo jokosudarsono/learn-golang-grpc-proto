@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package resiliency;
+
+option go_package = "github.com/jokosudarsono/learn-golang-grpc-proto/protogen/go/resiliency";
+
+message ResiliencyRequest {
+
+}
+
+message ResiliencyResponse {
+
+}

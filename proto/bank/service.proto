@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package bank;
+
+option go_package = "github.com/jokosudarsono/learn-golang-grpc-proto/protogen/go/bank";
+
+service BankService {
+
+}
